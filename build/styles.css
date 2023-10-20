@@ -44,6 +44,7 @@ footer p {
 	width: 240px;
 	margin: 16px;
 	float: left;
+	background-color: transparent;
 }
 .note h1 {
 	font-size: 1.1em;
